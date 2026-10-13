@@ -29,10 +29,10 @@
   },
   "devDependencies": {
     "eslint": "9.39.5",
-    "eslint-config-scratch": "14.1.80",
+    "eslint-config-scratch": "14.1.87",
     "jest": "30.5.2",
     "jest-junit": "16.0.0",
-    "prettier": "3.9.8"
+    "prettier": "3.9.10"
   },
   "jest": {
     "reporters": [

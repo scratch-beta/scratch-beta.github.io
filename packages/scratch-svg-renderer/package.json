@@ -71,17 +71,17 @@
   "devDependencies": {
     "@babel/core": "7.29.7",
     "@babel/preset-env": "7.29.7",
-    "@playwright/test": "1.63.0",
+    "@playwright/test": "1.64.0",
     "babel-loader": "9.2.1",
     "canvas": "3.2.3",
     "copy-webpack-plugin": "6.4.1",
     "eslint": "9.39.5",
-    "eslint-config-scratch": "14.1.80",
+    "eslint-config-scratch": "14.1.87",
     "globals": "16.5.0",
     "jsdom": "13.2.0",
     "mkdirp": "2.1.6",
     "rimraf": "3.0.2",
-    "scratch-render-fonts": "1.0.252",
+    "scratch-render-fonts": "1.0.254",
     "scratch-webpack-configuration": "3.1.2",
     "tap": "21.8.0",
     "webpack": "5.111.1",
@@ -89,6 +89,6 @@
     "webpack-dev-server": "5.2.6"
   },
   "peerDependencies": {
-    "scratch-render-fonts": "1.0.252"
+    "scratch-render-fonts": "1.0.254"
   }
 }
